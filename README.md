@@ -17,5 +17,5 @@ Although I am currently serving as a DevOps Engineer, my fascination and genuine
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joivo&layout=compact&theme=radical)
 
 ## 📫 Contact
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/emanueljoivo)
+- LinkedIn: [Emanuel Joívo (He/Him) DevOps Engineer](https://www.linkedin.com/in/emanueljoivo)
 - Email: emanueljoivo@gmail.com
