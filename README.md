@@ -7,7 +7,7 @@ Although I am currently serving as a DevOps Engineer, my fascination and genuine
 - **Containers & Orchestration**: Docker, Kubernetes
 - **Continuous Integration & Continuous Deployment (CI/CD)**: Jenkins, GitLab CI, GitHub Actions
 - **Infrastructure as Code (IaC)**: Terraform, Ansible, Puppet
-- **Monitoring & Logging**: Prometheus, Grafana, ELK, Splunk, Logz, Datadog
+- **Monitoring & Logging**: Prometheus, Grafana, ELK, Logz, Datadog
 - **Networking**: TCP/IP, DNS, Load Balancers, 5G
 - **Operating Systems**: Unix/Linux, Windows Server
 ## 📊 Stats
