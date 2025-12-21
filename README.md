@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=Hey%2C+I'm+Joivo+%F0%9F%91%8B;Software+Engineer+%7C+Platform+Engineer)](https://github.com/joivo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=0093E9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=Hey%2C+I'm+Joivo+%F0%9F%91%8B;Software+Engineer+%7C+Platform+Engineer)](https://github.com/joivo)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,100:80D0C7&height=100&section=header&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -89,8 +89,8 @@ I've also published work at **SBRC** (Brazilian Symposium on Computer Networks a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joivo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&hide_title=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joivo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joivo&show_icons=true&theme=transparent&hide_border=true&title_color=0093E9&icon_color=0093E9&text_color=C9D1D9&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joivo&layout=compact&theme=transparent&hide_border=true&title_color=0093E9&text_color=C9D1D9&hide_title=true"/>
 </div>
 
 ---
@@ -108,10 +108,10 @@ I've also published work at **SBRC** (Brazilian Symposium on Computer Networks a
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=joivo&style=flat-square&color=6366F1&label=visitors" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=joivo&style=flat-square&color=0093E9&label=visitors" alt="Profile Views"/>
 
-*Thanks for stopping by!* ✨
+*Thanks for stopping by!* 🌊
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=80&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,100:80D0C7&height=80&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
