@@ -57,6 +57,7 @@ My background spans from bare-metal datacenters and networking equipment to clou
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-DA291C?style=flat-square&logo=openstack&logoColor=white)
 
 ### **GitOps & Observability**
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
