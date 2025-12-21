@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=Hey%2C+I'm+Joivo+%F0%9F%91%8B;Software+Engineer+%7C+Platform+Enthusiast)](https://github.com/joivo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=Hey%2C+I'm+Joivo+%F0%9F%91%8B;Software+Engineer+%7C+Platform+Engineer)](https://github.com/joivo)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=header&animation=fadeIn" width="100%"/>
 
@@ -33,7 +33,7 @@ spec:
 
 I'm a software engineer with a passion for building reliable systems. While my day-to-day work focuses on infrastructure and platform engineering, I genuinely enjoy the breadth of software development — from writing operators in Go to working with ML pipelines and everything in between.
 
-I believe good infrastructure should be invisible: it just works, letting developers focus on what they do best. That's what I try to build.
+My background spans from bare-metal datacenters and networking equipment to cloud-native architectures. I believe good infrastructure should be invisible: it just works, letting developers focus on what they do best.
 
 ---
 
@@ -44,8 +44,8 @@ I believe good infrastructure should be invisible: it just works, letting develo
 ### **Languages**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### **Infrastructure & Cloud**
@@ -56,11 +56,13 @@ I believe good infrastructure should be invisible: it just works, letting develo
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-### **Observability & Tools**
+### **GitOps & Observability**
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white)
 
 </div>
 
@@ -71,10 +73,11 @@ I believe good infrastructure should be invisible: it just works, letting develo
 **Currently** — Building a WhatsApp chatbot platform at Anota AI, including designing Kubernetes operators in Go to manage application lifecycles at scale.
 
 **Previously** — Worked across different domains:
-- 🎮 **Wildlife Studios** — SRE for gaming infrastructure, keeping things running for millions of players
+- 🎮 **Wildlife Studios** — Platform Engineer/SRE for gaming infrastructure, keeping things running for millions of players
 - ☁️ **Getup Cloud** — Built tooling around Cluster API for multi-cloud Kubernetes
 - 🔍 **Nuveo** — Contributed to UltraOCR, an ML-powered document processing platform, focusing on API development and distributed tracing
-- 🔬 **Research (UFCG)** — Explored cloud computing, OpenStack, and even some 5G infrastructure
+- 🔬 **Research (UFCG)** — Explored cloud computing, OpenStack, and 5G infrastructure
+- 🖥️ **VIRTUS** — Operated private cloud environments with OpenStack, managed datacenter infrastructure and networking
 
 I've also published work at **SBRC** (Brazilian Symposium on Computer Networks and Distributed Systems).
 
