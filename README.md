@@ -31,7 +31,9 @@ spec:
 
 ## 👋 About Me
 
-I'm a software engineer with a passion for building reliable systems. While my day-to-day work focuses on infrastructure and platform engineering, I genuinely enjoy the breadth of software development — from writing operators in Go to working with ML pipelines and everything in between.
+I'm a software engineer focused on building robust systems that scale from day zero. I believe in engineering peace of mind — creating platforms reliable enough that I can enjoy a beach in Northeast Brazil without worrying about production.
+
+While my day-to-day work focuses on infrastructure and platform engineering, I genuinely enjoy the breadth of software development — from writing operators in Go to working with ML pipelines and everything in between.
 
 My background spans from bare-metal datacenters and networking equipment to cloud-native architectures. I believe good infrastructure should be invisible: it just works, letting developers focus on what they do best.
 
