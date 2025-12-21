@@ -73,7 +73,7 @@ My background spans from bare-metal datacenters and networking equipment to clou
 
 ## 🛤️ A Bit of My Journey
 
-**Currently** — Building a WhatsApp chatbot platform at Anota AI, including designing Kubernetes operators in Go to manage application lifecycles at scale.
+**Currently** — Building a WhatsApp chatbot platform at Anota AI. I design Kubernetes operators in Go to manage application lifecycles while leading SRE initiatives—orchestrating incident response, optimizing cloud costs, and ensuring high availability.
 
 **Previously** — Worked across different domains:
 - 🎮 **Wildlife Studios** — Platform Engineer/SRE for gaming infrastructure, keeping things running for millions of players
