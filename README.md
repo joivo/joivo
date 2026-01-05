@@ -82,8 +82,6 @@ My background spans from bare-metal datacenters and networking equipment to clou
 - 🔬 **Research (UFCG)** — Explored cloud computing, OpenStack, and 5G infrastructure
 - 🖥️ **VIRTUS** — Operated private cloud environments with OpenStack, managed datacenter infrastructure and networking
 
-I've also published work at **SBRC** (Brazilian Symposium on Computer Networks and Distributed Systems).
-
 ---
 
 ## 📊 GitHub Stats
