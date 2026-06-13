@@ -7,7 +7,7 @@ metadata:
   location: Campina Grande, PB, Brazil
   site: emanueljoivo.com
 spec:
-  role: Senior Site Reliability Engineer @ iFood
+  role: Senior Software Engineer - Platform/SRE @ifood
   focus:
     - Platform Engineering & Kubernetes Operators
     - Site Reliability & Incident Response
