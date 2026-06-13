@@ -26,7 +26,7 @@ Day job is platform engineering and SRE — fault-tolerant systems, incident res
 ```
 iFood                  Senior SRE              Apr 2026 - present
 Anota AI               Senior SRE / SRE        Apr 2024 - Apr 2026
-Quimbik (US-based)     Infra Consultant        Mar 2023 - Aug 2025
+Quimbik                Infra Consultant        Mar 2023 - Aug 2025
 Wildlife Studios       Platform Engineer       Feb 2022 - Dec 2022
 Getup Cloud            Platform Engineer       Apr 2021 - Feb 2022
 Nuveo                  Software Engineer       Jun 2020 - Jun 2021
