@@ -8,9 +8,6 @@ metadata:
   site: emanueljoivo.com
 spec:
   role: Senior Site Reliability Engineer @ iFood
-  background:
-    - Computer Science (UFCG)
-    - Philosophy (UEPB)
   focus:
     - Platform Engineering & Kubernetes Operators
     - Site Reliability & Incident Response
@@ -22,7 +19,7 @@ spec:
 
 Building resilient infrastructure and scalable services so production stays boring while I enjoy a beach in Northeast Brazil.
 
-Day job is platform engineering and SRE. Off the clock I build whatever the problem demands: Go CLIs, finance tools, data scrapers, frontend apps, Discord bots, design systems. Background in CS and philosophy, which means I care about both how systems work and why they should exist.
+Day job is platform engineering and SRE — fault-tolerant systems, incident response automation, FinOps, developer platforms. Off the clock I build whatever the problem demands: Go CLIs, finance tools, data scrapers, frontend apps, Discord bots, design systems.
 
 ## > journey
 
@@ -46,7 +43,7 @@ Nuveo                  Software Engineer       Jun 2020 - Jun 2021
 
 ```
 languages     Go, Python, Bash, TypeScript
-containers    Kubernetes (EKS, AKS, GKE), Docker, Helm, Cluster API, Cilium
+containers    Kubernetes (EKS, AKS, GKE), Docker, Helm, Cluster API, Crossplane, Cilium
 cloud         AWS, Azure, OpenStack, Terraform, Terragrunt, Pulumi
 gitops        ArgoCD, FluxCD, GitHub Actions, GitLab CI
 observability Datadog, Prometheus, Grafana, OpenTelemetry, Kubecost
@@ -57,4 +54,4 @@ security      Vault, OPA/Gatekeeper, Kyverno, RBAC, policy-as-code
 
 - [emanueljoivo.com](https://emanueljoivo.com)
 - [linkedin.com/in/emanueljoivo](https://linkedin.com/in/emanueljoivo)
-- [emanueljoivo@gmail.com](mailto:emanueljoivo@gmail.com)
+- [emanuel.joivo@ifood.com.br](mailto:emanuel.joivo@ifood.com.br)
