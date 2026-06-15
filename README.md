@@ -1,3 +1,4 @@
+bccaa6912f6decdc21e8eafec859b177f8a8beb2
 ```yaml
 # whoami
 apiVersion: v1
@@ -8,7 +9,7 @@ metadata:
 spec:
   role: Senior Software Engineer, Platform/SRE at iFood
   focus:
-    - Platform engineering and Kubernetes
+    - Platform engineering and orchestration
     - Reliability, incident response, and operational excellence
     - Cloud cost governance and capacity efficiency
     - Distributed systems and observability
@@ -42,9 +43,10 @@ Nuveo                  Software Engineer       Jun 2020 - Jun 2021
 
 ```
 languages     Go, Python, Bash, TypeScript
-containers    Kubernetes (EKS, AKS, GKE), Docker, Helm, Cluster API, Crossplane, Cilium
-cloud         AWS, Azure, OpenStack, Terraform, Terragrunt, Pulumi
-gitops        ArgoCD, FluxCD, GitHub Actions, GitLab CI
+orchestration  Kubernetes (EKS, AKS, GKE), Docker, Helm, Cluster API, Crossplane, Cilium
+cloud         AWS, Azure, OpenStack
+iac           Terraform, Terragrunt, Pulumi
+delivery      ArgoCD, FluxCD, GitHub Actions, GitLab CI
 observability Datadog, Prometheus, Grafana, OpenTelemetry, Kubecost
 security      Vault, OPA/Gatekeeper, Kyverno, RBAC, policy-as-code
 ```
