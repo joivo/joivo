@@ -7,7 +7,6 @@ metadata:
   location: Campina Grande, PB, Brazil
 spec:
   role: Senior Software Engineer, Platform/SRE at iFood
-  org: Salão/iFood
   focus:
     - Platform engineering and Kubernetes
     - Reliability, incident response, and operational excellence
