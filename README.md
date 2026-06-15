@@ -53,7 +53,7 @@ security      Vault, OPA/Gatekeeper, Kyverno, RBAC, policy-as-code
 ## > connect
 
 - [emanueljoivo.com](https://emanueljoivo.com)
-- Salão/iFood
 - [linkedin.com/in/emanueljoivo](https://linkedin.com/in/emanueljoivo)
 - [emanuel.joivo@ifood.com.br](mailto:emanuel.joivo@ifood.com.br)
+
 
