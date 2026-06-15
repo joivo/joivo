@@ -5,21 +5,21 @@ kind: Engineer
 metadata:
   name: emanuel-joivo
   location: Campina Grande, PB, Brazil
-  site: emanueljoivo.com
 spec:
-  role: Senior Software Engineer - Platform/SRE @ifood
+  role: Senior Software Engineer, Platform/SRE at iFood
+  org: Salão/iFood
   focus:
-    - Platform Engineering & Kubernetes Operators
-    - Site Reliability & Incident Response
-    - Cloud Cost Governance & FinOps
-    - Distributed Systems & Observability
+    - Platform engineering and Kubernetes
+    - Reliability, incident response, and operational excellence
+    - Cloud cost governance and capacity efficiency
+    - Distributed systems and observability
 ```
 
 ## > about
 
 Building resilient infrastructure and scalable services so production stays boring while I enjoy a beach in Northeast Brazil.
 
-Day job is platform engineering and SRE — fault-tolerant systems, incident response automation, FinOps, developer platforms. Off the clock I build whatever the problem demands: Go CLIs, finance tools, data scrapers, frontend apps, Discord bots, design systems.
+Day job is platform engineering and SRE. I work on resilience, automation, observability, and cost efficiency across infrastructure and delivery systems. Off the clock I build whatever the problem demands.
 
 ## > journey
 
@@ -53,5 +53,6 @@ security      Vault, OPA/Gatekeeper, Kyverno, RBAC, policy-as-code
 ## > connect
 
 - [emanueljoivo.com](https://emanueljoivo.com)
+- Salão/iFood
 - [linkedin.com/in/emanueljoivo](https://linkedin.com/in/emanueljoivo)
 - [emanuel.joivo@ifood.com.br](mailto:emanuel.joivo@ifood.com.br)
