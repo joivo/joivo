@@ -9,7 +9,8 @@ spec:
   role: Senior Software Engineer, Platform/SRE at iFood
   focus:
     - Platform engineering and orchestration
-    - Reliability, incident response, and operational excellence
+    - Reliability engineering, incident response, and postmortems
+    - SLI/SLO definition, error-budget policies, and operational readiness
     - Cloud cost governance and capacity efficiency
     - Distributed systems and observability
 ```
@@ -18,7 +19,7 @@ spec:
 
 Building resilient infrastructure and scalable services so production stays boring while I enjoy a beach in Northeast Brazil.
 
-Day job is platform engineering and SRE. I work on resilience, automation, observability, and cost efficiency across infrastructure and delivery systems. Off the clock I build whatever the problem demands.
+Day job is platform engineering and SRE. I work on resilience, automation, observability, incident response, postmortems, and cost efficiency across infrastructure and delivery systems. I define SLIs and SLOs, use error budgets to guide reliability work, and improve operational readiness with runbooks and automation. Off the clock I build whatever the problem demands.
 
 ## > journey
 
@@ -36,14 +37,13 @@ Nuveo                  Software Engineer       Jun 2020 - Jun 2021
 - [kubernetes-kops-operator](https://github.com/topfreegames/kubernetes-kops-operator) -- K8s operator managing kOps clusters via Cluster API
 - [kubernetes-crossplane-infrastructure-operator](https://github.com/topfreegames/kubernetes-crossplane-infrastructure-operator) -- K8s operator for AWS infra via Crossplane
 - [design-system](https://github.com/joivo/design-system) -- CSS-pure design tokens, Deep Sea Terminal identity. [Showcase](https://joivo.github.io/design-system/)
-- [rayan-bot](https://github.com/joivo/rayan-bot) -- Discord bot for sports match predictions. Go, SQLite, Docker
 
 ## > stack
 
 ```
-languages     Go, Python, Bash, TypeScript
+languages     Go, Python, Bash, TypeScript, Node.js
 orchestration  Kubernetes (EKS, AKS, GKE), Docker, Helm, Cluster API, Crossplane, Cilium
-cloud         AWS, Azure, OpenStack
+cloud         AWS, GCP, Azure, OpenStack
 iac           Terraform, Terragrunt, Pulumi
 delivery      ArgoCD, FluxCD, GitHub Actions, GitLab CI
 observability Datadog, Prometheus, Grafana, OpenTelemetry, Kubecost
@@ -55,5 +55,4 @@ security      Vault, OPA/Gatekeeper, Kyverno, RBAC, policy-as-code
 - [emanueljoivo.com](https://emanueljoivo.com)
 - [linkedin.com/in/emanueljoivo](https://linkedin.com/in/emanueljoivo)
 - [emanuel.joivo@ifood.com.br](mailto:emanuel.joivo@ifood.com.br)
-
 
