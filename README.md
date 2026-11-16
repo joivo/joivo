@@ -4,7 +4,7 @@ apiVersion: v1
 kind: Engineer
 metadata:
   name: emanuel-joivo
-  location: Campina Grande, PB
+  location: João Pessoa, Brazil
 spec:
   role: Senior Software Engineer
   focus: Platform & Reliability
